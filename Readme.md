@@ -1,6 +1,10 @@
 <h1>Chess Game</h1>
 
 <p>A Chess Game written in HTML, CSS and JAVASCRIPT .</p>
+<br />
+    <strong>Site URL / Demo » </strong>
+    <a href="https://mobilelatest.000webhostapp.com/chess/index.html">CHESS GAME BY DEEPANSH</a>
+    <br />
 
 <h3>Used Technologies</h3>
 <ul>
